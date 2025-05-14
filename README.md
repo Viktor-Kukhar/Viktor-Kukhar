@@ -1,5 +1,5 @@
 # Viktor Kukhar
-Data Analyst | London, UK
+Business Computing & Data Analytics Student | Aspiring Data Analyst | London, UK
 
 Welcome to my GitHub profile!
 
