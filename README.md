@@ -4,8 +4,8 @@ Data Analyst | London, UK
 Welcome to my GitHub profile!
 
 ## Projects
-- [AI Impact Analysis](https://github.com/ViktorKukhar/AI_Impact_Analysis) - Analyzes AI adoption and job loss trends.
-- [Online Retail Analysis](https://github.com/ViktorKukhar/Online_Retail_Analysis) - Explores retail sales and customer behavior.
+- [AI Impact Analysis](https://github.com/Viktor-Kukhar/ai-impact-analysis) - Analyzes AI adoption and job loss trends.
+- [Online Retail Analysis](https://github.com/Viktor-Kukhar/online-retail-analysis) - Explores retail sales and customer behavior.
 
 ## Skills
 - SQL
