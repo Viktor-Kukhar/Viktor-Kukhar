@@ -1,16 +1,19 @@
-## Hi there 👋
+# Viktor Kukhar
+Data Analyst | London, UK
 
-<!--
-**Viktor-Kukhar/Viktor-Kukhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## Projects
+- [AI Impact Analysis](https://github.com/ViktorKukhar/AI_Impact_Analysis) - Analyzes AI adoption and job loss trends.
+- [Online Retail Analysis](https://github.com/ViktorKukhar/Online_Retail_Analysis) - Explores retail sales and customer behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SQL
+- Excel
+- Tableau
+- Data Analysis
+- Problem Solving
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/kukhar-viktor/
+- Email: viktor.kukhar1708@gmail.com
